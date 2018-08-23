@@ -23,3 +23,20 @@ Tugas Praktikum 1
 Tugas Praktikum 2
 
 ![alt text](https://github.com/faarrelll/Jobsheet2/blob/master/TugasPraktikum.PNG)
+
+
+Jawaban pertanyaan soal di modul 2
+
+1.	d. Perhatikan jumlah penumpang Bus terakhir dengan jumlah penumpang maksimum. Mengapa bisa demikian?
+	Karena pada class bus tidak diberi code seperti berikut :
+if (temp >= maxPenumpang) {
+            System.out.println("Penumpang melebihi kuota");
+        }else{
+            this.penumpang = temp;
+        }
+Yang dimana code diatas untuk membatasi max penumpang sehingga output tidak melebihi max penumpang.
+
+
+2.	d.  Berikan penjelasan point b!
+	 deprogram itu diberi max penumpang adalah 40 , dan pada penambahan penumpang sejumlah 26 makan keluaran akan menjadi “kuota melebihi batas” dikarenakan sebelum ditambah peumpang sejumlah 26 penumpang bus sudah sebanyak 20, dan jika ditambah 26 penumpang maka jumlahnya akan menjadi 46 penumpang dan itu melebihi batas , lalu jika keluar output ”Kuota melebihi batas” maka penumpang bus tetap pada jumlah sebelum ditambah dengan yang melebihi kuota penumpang .
+
