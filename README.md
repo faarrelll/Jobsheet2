@@ -38,4 +38,4 @@ Yang dimana code diatas untuk membatasi max penumpang sehingga output tidak mele
 
 2.	  diprogram itu diberi max penumpang adalah 40 , dan pada penambahan penumpang sejumlah 26 makan keluaran akan menjadi “kuota melebihi batas” dikarenakan sebelum ditambah peumpang sejumlah 26 penumpang bus sudah sebanyak 20, dan jika ditambah 26 penumpang maka jumlahnya akan menjadi 46 penumpang dan itu melebihi batas , lalu jika keluar output ”Kuota melebihi batas” maka penumpang bus tetap pada jumlah sebelum ditambah dengan yang melebihi kuota penumpang .
 
-4.          Sama seperti latihan 2 . hanya saja ditambahkan dengan variable password tapi belum di setting untuk menginputkan nilai password sehingga muncul password salah dan password benar.
+4. Sama seperti latihan 2 . hanya saja ditambahkan dengan variable password tapi belum di setting untuk menginputkan nilai password sehingga muncul password salah dan password benar.
