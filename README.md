@@ -16,6 +16,10 @@ Latihan 4
 
 ![alt text](https://github.com/faarrelll/Jobsheet2/blob/master/Latihan4.PNG)
 
-Tugas Praktikum
+Tugas Praktikum 1
+
+![alt text](https://github.com/faarrelll/Jobsheet2/blob/master/praktikum1.PNG)
+
+Tugas Praktikum 2
 
 ![alt text](https://github.com/faarrelll/Jobsheet2/blob/master/TugasPraktikum.PNG)
